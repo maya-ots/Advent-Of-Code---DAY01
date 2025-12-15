@@ -10,3 +10,5 @@ The challenge simulates a 100-position dial (0–99) rotated L/R by given amount
 ## DAY 08 CHALLENGE
 ## DAY 09 CHALLENGE
 ## DAY 10 CHALLENGE
+## DAY 11 CHALLENGE
+## DAY 12 CHALLENGE
